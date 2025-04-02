@@ -1,1 +1,3 @@
 # termite-simulation
+
+Here's a simulation of termite colonies competing to gather sticks and build a nest, using decentralized rules inspired by stigmergy—an indirect communication mechanism through environmental changes. The termites move randomly, collect and drop sticks, and eventually form a single large pile. The simulation features adjustable parameters (e.g., movement probability, number of termites) and includes newly created tunnel systems, enhancing the complexity of the environment. Classes handle coordinate management, directions, and the grid state, while a graphical display shows the evolving termite movements.
